@@ -1,5 +1,17 @@
 # Verify Email
 
+[//]: <> (start placeholder for auto-badger)
+
+[![license](https://img.shields.io/github/license/technikhil314/verify-email)](https://github.com/technikhil314/verify-email/blob/main/LICENSE)
+
+[![stargazers](https://img.shields.io/github/stars/technikhil314/verify-email?style=social)](https://github.com/technikhil314/verify-email/stargazers)
+[![number of forks](https://img.shields.io/github/forks/technikhil314/verify-email?style=social)](https://github.com/technikhil314/verify-email/fork)
+[![Follow technikhil314 on twitter](https://img.shields.io/twitter/follow/technikhil314?label=Follow)](https://www.twitter.com/technikhil314)
+
+###### :clap: & :heart: to [auto badger](https://github.com/technikhil314/auto-badger) for making badging simple
+
+[//]: <> (end placeholder for auto-badger)
+
 ## An open rest api to verify an emaiid
 
 Email verification generally constitutes of three parts and api should tell if the emailid is provided by any
