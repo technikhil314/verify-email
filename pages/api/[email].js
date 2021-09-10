@@ -1,7 +1,7 @@
 const dnsPromises = require('dns').promises;
 const validator = require("email-validator");
 const fetch = require("isomorphic-fetch");
-const allPublicDomains = require("../constants/publicDomains");
+const allPublicDomains = require("../../constants/publicDomains");
 
 export default async function handler(req, res) {
   const { email } = req.query
