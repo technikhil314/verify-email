@@ -13,7 +13,7 @@ Email verification generally constitutes of three parts and api should tell if t
 ### Call the api with emailid
 
 ```bash
-curl https://ispublicemail.vercel.app/api/nikhil.001mehta@outlook.com
+curl https://verifyemail.vercel.app/api/nikhil.001mehta@outlook.com
 ```
 
 ### Sample response
