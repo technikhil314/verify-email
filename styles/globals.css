@@ -14,8 +14,12 @@ body {
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  outline: 1px dotted;
+  transition: all 300ms linear;
+}
+
+a:hover {
+  outline: 1px solid black;
 }
 
 * {

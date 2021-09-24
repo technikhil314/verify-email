@@ -1,4 +1,4 @@
-# Verify Email
+# Open source public api for email verification
 
 [![license](https://img.shields.io/github/license/technikhil314/verify-email)](https://github.com/technikhil314/verify-email/blob/main/LICENSE)
 

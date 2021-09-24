@@ -6,32 +6,32 @@ export default function Home({ markdownContent }) {
   return (
     <>
       <Head>
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <title>Verify Email - An open api</title>
         <meta property="og:url" content="https://verifyemail.vercel.app/" />
         <meta
           name="twitter:title"
-          content="An open rest api to verify an emaiid"
+          content="Open source public api for email verification"
         />
         <meta
           name="og:title"
           property="og:title"
-          content="An open rest api to verify an emaiid"
+          content="Open source public api for email verification"
         />
         <meta property="og:type" name="og:type" content="website" />
         <meta
           name="description"
-          content="An open rest api to verify an emaiid"
+          content="Open source public api for email verification"
         />
         <meta
           property="og:description"
           name="og:description"
-          content="An open rest api to verify an emaiid"
+          content="Open source public api for email verification"
         />
         <meta
           name="twitter:description"
-          content="An open rest api to verify an emaiid"
+          content="Open source public api for email verification"
         />
         <meta
           property="og:url"

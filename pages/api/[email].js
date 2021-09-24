@@ -12,7 +12,7 @@ export default async function handler(req, res) {
     });
   }
   const [, domain] = email.split("@");
-  const domainHasValidMxRecords = hasValidMxRecords(domain);
+  const domainHasValidMxRecords = await hasValidMxRecords(domain);
   if (!domainHasValidMxRecords) {
     return res.status(400).json({
       error: true,
