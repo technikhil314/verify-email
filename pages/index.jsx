@@ -11,6 +11,11 @@ export default function Home({ markdownContent }) {
         <title>Verify Email - An open api</title>
         <meta property="og:url" content="https://verifyemail.vercel.app/" />
         <meta
+          property="og:image"
+          name="og:image"
+          content="https://verifyemail.vercel.app/api/image"
+        />
+        <meta
           name="twitter:title"
           content="Open source public api for email verification"
         />
